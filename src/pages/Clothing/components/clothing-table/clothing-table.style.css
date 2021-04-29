@@ -1,0 +1,27 @@
+.clothing-table-container{
+    width: 95%;
+    margin: 0 auto;
+    min-height: 200px;
+    border: 5px solid red;
+    margin-top: 10px;
+    padding: 10px;
+    background-color: gray;
+    font-weight: bold;
+    text-align: left;
+    
+}
+
+.left-content{
+    background-color: silver;
+    display:flex;
+    justify-content: left;
+    padding: 2px;
+}
+
+.right-content{
+    background-color:orangered;
+    display:flex;
+    justify-content: right;
+    padding: 2px;
+    text-align: left;
+}
